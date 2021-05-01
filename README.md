@@ -1,2 +1,2 @@
-# tinyone
-ames are short and me
+# Tinyone
+Great repository names are shor
